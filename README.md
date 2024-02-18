@@ -1,10 +1,11 @@
 # Brave-Collective-Droppers-Lists
 
 This repository contains files with the names of known droppers in our space for use by alliance members, either in tools or for reference.
-As of the creation of this repository, there are 2 files, 1 for blops droppers, 1 for solo or small gang droppers.
-Droppers who have a record of doing both should be added to both files.
+
+Modification feb 16, 2024
+To allow easy usage by applications, the names have been placed in an Excel spreadsheet that was then exported to csv and further converted to json.
+All 3 files are uploaded and will be updated when new names are raised.
 
 Fly Safe!
-
 Aerer Vyvorant
  
